@@ -1,20 +1,24 @@
 :root {
-  /* Primary navy */
-  --ink: #0E2546;
+  /* Main brand colour: RGB 1, 66, 106 */
+  --brand: #01426A;
+
+  /* Deeper navy variants */
+  --ink: #012A44;
+  --navy-deep: #001B2C;
 
   /* Blue-grey text */
-  --muted: #536273;
+  --muted: #536F80;
 
   /* Links, buttons and highlights */
-  --accent: #0E2546;
-  --accent-dark: #08172C;
+  --accent: #01426A;
+  --accent-dark: #012A44;
 
-  /* Very pale navy-tinted backgrounds */
-  --paper: #F7F8FA;
-  --panel: #E8EBEF;
+  /* Pale monochromatic backgrounds */
+  --paper: #F7F9FA;
+  --panel: #E7EDF1;
 
   /* Borders */
-  --line: #CDD3DA;
+  --line: #C9D5DC;
 }
 
 body {
