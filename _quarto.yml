@@ -18,9 +18,7 @@ website:
     right:
       - text: "Research methods"
         href: images/header.png
-      - icon: github
-        href: https://github.com/solveigaamlid
-        aria-label: GitHub
+
   page-footer:
     left: "© 2026 Solveig Aamlid"
     right: "Built with [Quarto](https://quarto.org/)"
