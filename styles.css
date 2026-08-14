@@ -22,14 +22,14 @@
 }
 
 body {
-  color: var(--ink);
+  color: var(--brand);
   background: var(--paper);
   font-size: 1.02rem;
 }
 
 .navbar {
-  background: var(--ink);
-  border-bottom: 1px solid var(--ink);
+  background: var(--brand);
+  border-bottom: 1px solid var(--brand);
 }
 
 .navbar-title,
