@@ -1,11 +1,20 @@
 :root {
-  --ink: #17222d;
-  --muted: #52606d;
-  --accent: #9d3d2f;
-  --accent-dark: #762b22;
-  --paper: #fbfaf7;
-  --panel: #f1eee8;
-  --line: #d9d4ca;
+  /* Primary navy */
+  --ink: #0E2546;
+
+  /* Blue-grey text */
+  --muted: #536273;
+
+  /* Links, buttons and highlights */
+  --accent: #0E2546;
+  --accent-dark: #08172C;
+
+  /* Very pale navy-tinted backgrounds */
+  --paper: #F7F8FA;
+  --panel: #E8EBEF;
+
+  /* Borders */
+  --line: #CDD3DA;
 }
 
 body {
