@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "Solveig Aamlid"
+  description: "Academic website of Solveig Stubmo Aamlid, materials scientist at École Polytechnique."
+  site-url: "https://solveigaamlid.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - people.qmd
+      - publications.qmd
+      - news.qmd
+      - cv.qmd
+      - contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/solveigaamlid
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Solveig Aamlid"
+    right: "Built with [Quarto](https://quarto.org/)"
+  search: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
+

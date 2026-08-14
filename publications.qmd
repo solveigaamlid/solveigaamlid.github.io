@@ -1,0 +1,19 @@
+---
+title: "Publications"
+description: "Publications by Solveig Stubmo Aamlid and collaborators."
+---
+
+For a complete and current citation record, see [Google Scholar](https://scholar.google.com/) and [ORCID](https://orcid.org/).
+
+## Selected publications
+
+### Short-range order and local distortions in entropy-stabilized oxides
+
+*Chemistry of Materials* (2024).
+
+This work examines how local chemical correlations and structural distortions develop in compositionally complex rocksalt oxides.
+
+### Additional publications
+
+The complete publication list, DOI links and downloadable citations will be added here.
+

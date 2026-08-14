@@ -1,0 +1,13 @@
+---
+title: "News"
+description: "Research and group news."
+---
+
+## 2026
+
+### New research group at École Polytechnique
+
+Solveig joined École Polytechnique as a tenure-track Assistant Professor and is establishing a research program focused on disordered and high-entropy oxides.
+
+<!-- Add future items above this line, newest first. -->
+

@@ -1,0 +1,54 @@
+---
+title: "Solveig Stubmo Aamlid"
+subtitle: "Materials scientist · École Polytechnique"
+page-layout: full
+---
+
+::: {.hero}
+::: {.hero-text}
+## Disorder as a materials-design tool
+
+I am a tenure-track Assistant Professor at École Polytechnique, where I study chemically complex and disordered inorganic materials.
+
+My research combines solid-state synthesis, structural characterization and computational modelling to understand how configurational disorder influences phase stability, local structure and functional properties.
+
+[Research](research.qmd){.btn .btn-primary} [Publications](publications.qmd){.btn .btn-outline-primary}
+:::
+
+::: {.hero-card}
+### Current interests
+
+- High-entropy and entropy-stabilized oxides
+- Short-range order and local distortions
+- Phase stability and order–disorder transitions
+- First-principles and machine-learning methods
+- Lead-free functional oxides
+:::
+:::
+
+## Research approach
+
+I work across experiment and computation, connecting synthesis and diffraction measurements with density-functional theory, statistical mechanics and machine-learning interatomic potentials.
+
+## At a glance
+
+::: {.columns}
+::: {.column width="33%"}
+### Synthesis
+
+Solid-state and solution-based preparation of compositionally complex oxides.
+:::
+
+::: {.column width="33%"}
+### Structure
+
+Crystallography and local-structure measurements of disordered materials.
+:::
+
+::: {.column width="33%"}
+### Modelling
+
+DFT, cluster expansions and atomistic simulation of disorder and stability.
+:::
+:::
+

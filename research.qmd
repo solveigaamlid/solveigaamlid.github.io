@@ -1,0 +1,30 @@
+---
+title: "Research"
+description: "Research themes in disordered and high-entropy oxides."
+---
+
+## High-entropy and entropy-stabilized oxides
+
+How does configurational complexity alter the thermodynamics, structure and properties of an oxide? We study when entropy genuinely stabilizes a phase, how competing structures emerge, and how synthesis conditions determine the resulting material.
+
+## Short-range order and local distortions
+
+Average crystallographic symmetry can conceal chemically specific correlations and local structural distortions. We connect local order to composition, bonding and collective properties using complementary experimental and computational approaches.
+
+## Predictive modelling of disordered materials
+
+We use density-functional theory, cluster expansions and machine-learning interatomic potentials to explore configurational spaces that cannot be represented by a single conventional unit cell.
+
+## Functional complex oxides
+
+We investigate how chemical disorder can be used to tune optical, dielectric, piezoelectric and thermal behavior, with an emphasis on lead-free and resource-conscious materials.
+
+## Methods
+
+- Solid-state, solution and flux synthesis
+- Laboratory and synchrotron X-ray diffraction
+- Local-structure and thermal characterization
+- Density-functional theory and lattice dynamics
+- Cluster expansions and configurational sampling
+- Machine-learning interatomic potentials
+

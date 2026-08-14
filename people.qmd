@@ -1,0 +1,23 @@
+---
+title: "People"
+description: "Members and collaborators of the Aamlid research group."
+---
+
+## Solveig Stubmo Aamlid
+
+**Tenure-track Assistant Professor, École Polytechnique**
+
+Solveig leads research on disorder, phase stability and structure–property relationships in chemically complex oxides.
+
+## Group members
+
+This page will introduce postdoctoral researchers, doctoral students, interns and project students as the group grows.
+
+## Alumni
+
+Former students and visitors will be listed here.
+
+## Collaborations
+
+Our work is collaborative by design, bringing together synthesis, advanced characterization, computation and materials theory.
+

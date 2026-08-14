@@ -1,0 +1,31 @@
+---
+title: "CV"
+description: "Curriculum vitae of Solveig Stubmo Aamlid."
+---
+
+## Appointments
+
+**Tenure-track Assistant Professor**  
+École Polytechnique, Laboratoire de Physique de la Matière Condensée  
+2026–present
+
+**Postdoctoral Researcher**  
+University of British Columbia, Stewart Blusson Quantum Matter Institute  
+2021–2024
+
+## Education
+
+**PhD, Materials Science and Engineering**  
+Norwegian University of Science and Technology (NTNU)
+
+## Research interests
+
+High-entropy oxides; configurational disorder; local structure; phase stability; solid-state synthesis; density-functional theory; machine-learning interatomic potentials.
+
+## Publications and identifiers
+
+- [Google Scholar](https://scholar.google.com/)
+- [ORCID](https://orcid.org/)
+
+A downloadable PDF version of the CV will be added here.
+
