@@ -17,7 +17,7 @@ website:
       - contact.qmd
     right:
       - text: "Research methods"
-        href: images/header.png
+        href: images/headerEP.png
 
   page-footer:
     left: "© 2026 Solveig Aamlid"
