@@ -14,7 +14,7 @@ website:
       - publications.qmd
       - news.qmd
       - cv.qmd
-      - contact.qmd
+      - connect.qmd
 
 
   page-footer:
