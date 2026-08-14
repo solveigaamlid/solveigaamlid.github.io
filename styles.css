@@ -142,12 +142,12 @@ a:hover {
 }
 
 /* Small research graphic before the GitHub icon */
-.navbar-nav a[href$="header.png"] {
+.navbar-nav a[href$="headerEP.png"] {
   width: 145px;
   height: 42px;
   padding: 0;
   margin: 0 0.8rem;
-  background-image: url("images/header.png");
+  background-image: url("images/headerEP.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
