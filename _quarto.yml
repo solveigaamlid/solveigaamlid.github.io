@@ -16,6 +16,8 @@ website:
       - cv.qmd
       - contact.qmd
     right:
+      - text: "Research methods"
+        href: images/header.png
       - icon: github
         href: https://github.com/solveigaamlid
         aria-label: GitHub
