@@ -4,6 +4,6 @@ Source for the academic website of Solveig Stubmo Aamlid, built with Quarto and 
 
 ## Editing
 
-The main pages are the `.qmd` files in the repository root. Site navigation and global settings are in `_quarto.yml`; visual styling is in `styles.css`.
+The main pages in the header are the `.qmd` files in the repository root. Site navigation and global settings are in `_quarto.yml`; visual styling is in `styles.css`.
 
-The GitHub Actions workflow renders and publishes the site after changes are pushed to `main`.
+The GitHub Actions workflow renders and publishes the site after changes are pushed to `main`. Remember to publish/unpublish and cancel the workflows!
