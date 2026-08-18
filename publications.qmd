@@ -2,11 +2,30 @@
 title: "Publications"
 ---
 
-For a complete and current citation record, see [Google Scholar](https://scholar.google.com/) and [ORCID](https://orcid.org/).
+See also [Google Scholar](https://scholar.google.com/citations?user=zQqxVgUAAAAJ). 
 
 
 ### **Peer-reviewed scientific articles**
 
+Li F., <u>Aamlid S.S.</u>, Dicks O.A., Han M.-G., Levy G., Sutarto R., Chen Z., Liu C., Kung H.-H., Godin S., Davidson B.A., Cheng Z.G., Damascelli A., Zhu Y., Heil C., Elfimov I., Sawatzky G.A., Zou K.
+
+**Quantum disorder engineering in superconducting Ti(O,N) thin films**
+
+(2026) Physical Review B, 114 (6), art. no. 065415.
+
+DOI: [10.1103/cjgd-fjh2](https://doi.org/10.1103/cjgd-fjh2)
+
+---
+
+Ren S., Ji T., Scott S.S., Rumscheidt J., <u>Aamlid S.S.</u>, Crescenzo G.V., Yang Y., Williams A.S.R., Andrew L.J., Hallas A.M., Stolar M., Berlinguette C.P.
+
+**Electrochemical Synthesis of Calcium Silicate Hydrate for Low Carbon Cement**
+
+(2026) ACS Energy Letters, 11 (6), pp. 4316–4324.
+
+DOI: [10.1021/acsenergylett.5c04150](https://doi.org/10.1021/acsenergylett.5c04150)
+
+---
 
 Dicks O.A., <u>Aamlid S.S.</u>, Hallas A.M., Rottler J.
 
