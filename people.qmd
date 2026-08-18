@@ -1,23 +1,14 @@
 ---
 title: "People"
-description: "Members and collaborators of the Aamlid research group."
 ---
+I am a part of the lab [Laboratoire de Physique de la Matière Condensée](https://pmc.polytechnique.fr/) at Ecole polytechnique, and specifically in the reseach groups for [solid state chemistry](https://pmc.polytechnique.fr/spip.php?article623&lang=en) and [physics of irregular systems](https://pmc.polytechnique.fr/spip.php?article403).
 
-## Solveig Stubmo Aamlid
-
-**Tenure-track Assistant Professor, École Polytechnique**
-
-Solveig leads research on disorder, phase stability and structure–property relationships in chemically complex oxides.
+## Prinipal Investigator
+Tenure-track Assistant Professor, École Polytechnique **Solveig Stubmo Aamlid**
 
 ## Group members
-
-This page will introduce postdoctoral researchers, doctoral students, interns and project students as the group grows.
+Interested in working on these topics? [Connect](connect.qmd)
 
 ## Alumni
-
-Former students and visitors will be listed here.
-
-## Collaborations
-
-Our work is collaborative by design, bringing together synthesis, advanced characterization, computation and materials theory.
-
+Internship 2026: **Tonine El Khoury** (second-year BSc student, Université Paris-Saclay). Structure of NiO–MgO Solid Solutions. 
+Internship 2026: **Atanasie-Teo Sutu** (first-year BSc student, École Polytechnique). Density Functional Theory Calculations of Defect Formation Energies in Garnet-Structured Oxides.
