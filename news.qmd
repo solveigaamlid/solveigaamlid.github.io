@@ -1,13 +1,32 @@
 ---
 title: "News"
-description: "Research and group news."
 ---
 
 ## 2026
 
-### New research group at École Polytechnique
+###July
+Co-authored journal article published in *Physical Review B* on **Quantum disorder engineering in superconducting Ti(O,N) thin films** [DOI](https://doi.org/10.1103/cjgd-fjh2).
 
-Solveig joined École Polytechnique as a tenure-track Assistant Professor and is establishing a research program focused on disordered and high-entropy oxides.
+### June
+Atanasie-Teo Sutu (BSc student, École Polytechnique) starts his internship on the topic *Density Functional Theory Calculations of Defect Formation Energies in Garnet-Structured Oxides*.
 
-<!-- Add future items above this line, newest first. -->
+Co-authored journal article published in *ACS Energy Letters* on **Electrochemical Synthesis of Calcium Silicate Hydrate for Low Carbon Cement** [DOI](https://doi.org/10.1021/acsenergylett.5c04150).
 
+### May
+Solveig travels to European Materials Research Society (E-MRS) Spring Meeting, Strasbourg, France to present *Computational Predictions of New High-Entropy Oxides* and meet the european materials research commuinty.
+
+Solveig visits collaborator Oliver Dicks at Centre for Condensed Matter Physics (CCMP), Queen Mary University of London.
+
+### April
+Tonine El Khoury (BSc student, Université Paris-Saclay) starts her internship on the topic *Structure of NiO–MgO Solid Solutions*.
+
+Solveig travels to Materials Research Society (MRS) Spring Meeting, Honolulu, Hawaii, USA to participate in the *Symposium SF02-Engineering Complexity—High Entropy Ceramics as a Design Platform for Next-Generation Materials*. It was great to see the high entropy oxide community again, in addition to updates on AI and materials discovery topics.
+
+### March
+Journal article published in *Computational Materials Science* on **Expanding the search space of high entropy oxides and predicting synthesizability using machine learning interatomic potentials** with UBC co-authors Oliver A. Dicks, Solveig S. Aamlid, Alannah M. Hallas, and Joerg Rottler [DOI](https://doi.org/10.1016/j.commatsci.2026.114581).
+
+### February
+Solveig travels to University of Warwick for the WCPM Seminar Series, and to University of Bristol to catch up with collaborator Christopher Woodgate. 
+
+### January
+Solveig joined École Polytechnique as a tenure-track Assistant Professor and is establishing a research program focused on computational prediction of disordered materials and high entropy oxides.
