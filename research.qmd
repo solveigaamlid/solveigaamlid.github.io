@@ -1,6 +1,5 @@
 ---
 title: "Research"
-description: "Research themes in disordered and high-entropy oxides."
 ---
 
 ## High-entropy and entropy-stabilized oxides
@@ -15,16 +14,13 @@ Average crystallographic symmetry can conceal chemically specific correlations a
 
 We use density-functional theory, cluster expansions and machine-learning interatomic potentials to explore configurational spaces that cannot be represented by a single conventional unit cell.
 
-## Functional complex oxides
-
-We investigate how chemical disorder can be used to tune optical, dielectric, piezoelectric and thermal behavior, with an emphasis on lead-free and resource-conscious materials.
 
 ## Methods
-
-- Solid-state, solution and flux synthesis
-- Laboratory and synchrotron X-ray diffraction
-- Local-structure and thermal characterization
-- Density-functional theory and lattice dynamics
+We use a wide range of tools necessary to answer complex questions about the structure of disordered materials, including but not limited to
+Experimental:
+- Solid-state and solution-based synthesis
+- Laboratory and synchrotron x-ray techniques
+Computational:
+- Density-functional theory calculations, with emphasis on energetics and lattice dynamics
 - Cluster expansions and configurational sampling
 - Machine-learning interatomic potentials
-
