@@ -1,31 +1,27 @@
 ---
 title: "CV"
-description: "Curriculum vitae of Solveig Stubmo Aamlid."
+description: "CV for Solveig Stubmo Aamlid."
 ---
 
 ## Appointments
 
 **Tenure-track Assistant Professor**  
-École Polytechnique, Laboratoire de Physique de la Matière Condensée  
+Laboratoire de Physique de la Matière Condensée, Department of Physics, École Polytechnique, Palaiseau, France
+I am currently working as a tenure-track assistant professor developing my research program which aims to integrate knowledge of disorder and functional property calculations in order to design new materials with optimal properties. The position is funded by Materials 4 Society (M4S), an interdisciplinary research center at IP Paris.
 2026–present
 
-**Postdoctoral Researcher**  
-University of British Columbia, Stewart Blusson Quantum Matter Institute  
-2021–2024
+**Stewart Blusson Quantum Matter Institute Postdoctoral Fellow, **  
+Stewart Blusson Quantum Matter Institute, University of British Columbia (UBC), Vancouver, British Columbia, Canada
+Working on the grand challenge *Atomistic approach to emergent properties of disordered materials*, advised by associate professor Alannah Hallas and professor Joerg Rottler.
+2021–2025
 
 ## Education
 
 **PhD, Materials Science and Engineering**  
-Norwegian University of Science and Technology (NTNU)
+Department of Materials Science and Engineering (DMSE), Norwegian University of Science and Technology (NTNU) Trondheim, Norway
+Thesis titled *Structure, disorder, and oxygen vacancies in ferroelectric tetragonal tungsten bronzes*, supervised by professor Tor Grande and professor Sverre Magnus Selbach.
+2016-2020
 
-## Research interests
-
-High-entropy oxides; configurational disorder; local structure; phase stability; solid-state synthesis; density-functional theory; machine-learning interatomic potentials.
-
-## Publications and identifiers
-
-- [Google Scholar](https://scholar.google.com/)
-- [ORCID](https://orcid.org/)
-
-A downloadable PDF version of the CV will be added here.
-
+**Master of science in Nanotechnology**
+NTNU Trondheim, Norway
+2011-2016
