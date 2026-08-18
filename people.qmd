@@ -1,13 +1,13 @@
 ---
 title: "People"
 ---
-I am a part of the lab [Laboratoire de Physique de la Matière Condensée](https://pmc.polytechnique.fr/) at Ecole polytechnique, and specifically in the reseach groups for [solid state chemistry](https://pmc.polytechnique.fr/spip.php?article623&lang=en) and [physics of irregular systems](https://pmc.polytechnique.fr/spip.php?article403).
+I am a part of the lab [Laboratoire de Physique de la Matière Condensée](https://pmc.polytechnique.fr/) at Ecole polytechnique, and specifically in the research groups for [solid state chemistry](https://pmc.polytechnique.fr/spip.php?article623&lang=en) and [physics of irregular systems](https://pmc.polytechnique.fr/spip.php?article403).
 
-## Prinipal Investigator
+## Principal Investigator
 ::: {.columns}
 
 ::: {.column width="30%"}
-![Solveig Aamlid](images/profile.png){.profile-picture}
+![Solveig Aamlid](images/profile_pic_2025.png){.profile-picture}
 :::
 
 ::: {.column width="70%"}
