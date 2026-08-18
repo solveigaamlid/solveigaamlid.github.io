@@ -1,19 +1,137 @@
 ---
 title: "Publications"
-description: "Publications by Solveig Stubmo Aamlid and collaborators."
 ---
 
 For a complete and current citation record, see [Google Scholar](https://scholar.google.com/) and [ORCID](https://orcid.org/).
 
-## Selected publications
 
-### Short-range order and local distortions in entropy-stabilized oxides
+### **Peer-reviewed scientific articles**
 
-*Chemistry of Materials* (2024).
 
-This work examines how local chemical correlations and structural distortions develop in compositionally complex rocksalt oxides.
+Dicks O.A., <u>Aamlid S.S.</u>, Hallas A.M., Rottler J.
 
-### Additional publications
+**Expanding the search space of high entropy oxides and predicting synthesizability using machine learning interatomic potentials**
 
-The complete publication list, DOI links and downloadable citations will be added here.
+(2026) Computational Materials Science, 267, 114581.
+
+DOI: [10.1016/j.commatsci.2026.114581](https://doi.org/10.1016/j.commatsci.2026.114581)
+
+---
+
+Mazzotti V., <u>Aamlid S.S.</u>, Mancilla A.A., Machts J., Rutherford M., Rottler J., Kojima K.M., Hallas A.M.
+
+**Origin and scarcity of breathing pyrochlore lattices in spinel oxides**
+
+(2025) Physical Review Materials, 9 (3), art. no. 033602.
+
+DOI: [10.1103/PhysRevMaterials.9.033602](https://doi.org/10.1103/PhysRevMaterials.9.033602)
+
+---
+
+<u>Aamlid S.S.</u>, Mugiraneza S., González-Rivas M.U., King G., Hallas A.M., Rottler J.
+
+**Short-Range Order and Local Distortions in Entropy Stabilized Oxides**
+
+(2024) Chemistry of Materials, 36 (19), pp. 9636–9645.
+
+DOI: [10.1021/acs.chemmater.4c01702](https://doi.org/10.1021/acs.chemmater.4c01702)
+
+---
+
+<u>Aamlid S.S.</u>, Kim M., González-Rivas M.U., Oudah M., Takagi H., Hallas A.M.
+
+**Effect of high pressure synthesis conditions on the formation of high entropy oxides**
+
+(2024) Applied Physics Letters, 125 (2), art. no. 021901.
+
+DOI: [10.1063/5.0201964](https://doi.org/10.1063/5.0201964)
+
+---
+
+González-Rivas M.U., <u>Aamlid S.S.</u>, Rutherford M.R., Freese J., Sutarto R., Chen N., Villalobos-Portillo E.E., Castillo-Michel H., Kim M., Takagi H., Green R.J., Hallas A.M.
+
+**Impact of Synthesis Method on the Structure and Function of High Entropy Oxides**
+
+(2024) Journal of the American Chemical Society, 146 (38), pp. 26048–26059.
+
+DOI: [10.1021/jacs.4c05951](https://doi.org/10.1021/jacs.4c05951)
+
+---
+
+<u>Aamlid S.S.</u>, Johnstone G.H.J., Mugiraneza S., Oudah M., Rottler J., Hallas A.M.
+
+**Phase stability of entropy stabilized oxides with the α-PbO₂ structure**
+
+(2023) Communications Materials, 4 (1), art. no. 45.
+
+DOI: [10.1038/s43246-023-00372-5](https://doi.org/10.1038/s43246-023-00372-5)
+
+---
+
+<u>Aamlid S.S.</u>, Oudah M., Rottler J., Hallas A.M.
+
+**Understanding the Role of Entropy in High Entropy Oxides**
+
+(2023) Journal of the American Chemical Society, 145 (11), pp. 5991–6006.
+
+DOI: [10.1021/jacs.2c11608](https://doi.org/10.1021/jacs.2c11608)
+
+---
+
+Grendal O.G., Evans D.M., <u>Aamlid S.S.</u>
+
+**Revisiting the structures and phase transitions of Ba₂NaNb₅O₁₅**
+
+(2023) Journal of Applied Crystallography, 56, pp. 1456–1465.
+
+DOI: [10.1107/S1600576723006969](https://doi.org/10.1107/S1600576723006969)
+
+---
+
+Grendal O.G., Fitch A.N., <u>Aamlid S.S.</u>
+
+**A-Site Cation Disorder in SrₓBa₁₋ₓNb₂O₆ (x = 0.25, 0.33, 0.50, 0.61) Studied by High-Resolution Resonant X-ray Powder Diffraction**
+
+(2023) ACS Omega, 8 (40), pp. 37592–37599.
+
+DOI: [10.1021/acsomega.3c06500](https://doi.org/10.1021/acsomega.3c06500)
+
+---
+
+<u>Aamlid S.S.</u>, Selbach S.M., Grande T.
+
+**Structural Evolution of Ferroelectric and Ferroelastic Barium Sodium Niobate Tungsten Bronze**
+
+(2020) Inorganic Chemistry, 59 (12), pp. 8514–8521.
+
+DOI: [10.1021/acs.inorgchem.0c00958](https://doi.org/10.1021/acs.inorgchem.0c00958)
+
+---
+
+<u>Aamlid S.S.</u>, Selbach S.M., Grande T.
+
+**The effect of cation disorder on ferroelectric properties of SrₓBa₁₋ₓNb₂O₆ tungsten bronzes**
+
+(2019) Materials, 12 (7), art. no. 1156.
+
+DOI: [10.3390/ma12071156](https://doi.org/10.3390/ma12071156)
+
+
+
+### **Theses**
+
+#### **Structure, disorder, and oxygen vacancies in ferroelectric tetragonal tungsten bronzes**
+
+<u>Aamlid, Solveig Stubmo</u>
+
+Doctoral thesis, NTNU, 2020.  
+*Doctoral Theses at NTNU*, 2020:349.
+
+---
+
+#### **The Effect of Thermal History on the Structural and Dielectric Properties of Tetragonal Tungsten Bronzes**
+
+<u>Aamlid, Solveig Stubmo</u>
+
+Master’s thesis, NTNU, 2016.
 
