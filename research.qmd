@@ -1,19 +1,10 @@
 ---
 title: "Research"
 ---
-
-## High-entropy and entropy-stabilized oxides
-
-How does configurational complexity alter the thermodynamics, structure and properties of an oxide? We study when entropy genuinely stabilizes a phase, how competing structures emerge, and how synthesis conditions determine the resulting material.
-
-## Short-range order and local distortions
-
-Average crystallographic symmetry can conceal chemically specific correlations and local structural distortions. We connect local order to composition, bonding and collective properties using complementary experimental and computational approaches.
-
-## Predictive modelling of disordered materials
-
-We use density-functional theory, cluster expansions and machine-learning interatomic potentials to explore configurational spaces that cannot be represented by a single conventional unit cell.
-
+I am currently developing three research directions:
+### Discovery of new high-entropy oxides and entropy-stabilized oxides
+### Short-range order and local distortions in disordered materials
+### Collective properties under extreme chemical disorder
 
 ## Methods
 We use a wide range of tools necessary to answer complex questions about the structure of disordered materials, including but not limited to
@@ -24,3 +15,5 @@ Computational:
 - Density-functional theory calculations, with emphasis on energetics and lattice dynamics
 - Cluster expansions and configurational sampling
 - Machine-learning interatomic potentials
+
+![Overview of computational modelling, synthesis and characterization](images/codis_black.png){.methods-picture}
