@@ -4,7 +4,20 @@ title: "People"
 I am a part of the lab [Laboratoire de Physique de la Matière Condensée](https://pmc.polytechnique.fr/) at Ecole polytechnique, and specifically in the reseach groups for [solid state chemistry](https://pmc.polytechnique.fr/spip.php?article623&lang=en) and [physics of irregular systems](https://pmc.polytechnique.fr/spip.php?article403).
 
 ## Prinipal Investigator
-Tenure-track Assistant Professor, École Polytechnique **Solveig Stubmo Aamlid**
+::: {.columns}
+
+::: {.column width="30%"}
+![Solveig Aamlid](images/profile.png){.profile-picture}
+:::
+
+::: {.column width="70%"}
+## Solveig Stubmo Aamlid
+
+**Tenure-track Assistant Professor**
+
+:::
+
+:::
 
 ## Group members
 Interested in working on these topics? [Connect](connect.qmd)
