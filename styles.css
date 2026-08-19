@@ -198,44 +198,76 @@ a:hover {
   margin-top: 0;
 }
 
-.research-approach .columns {
-  margin: 0;
-  align-items: stretch;
+.research-approach {
+  margin: 2rem 0;
+  padding: 1.5rem 2rem 2rem;
+  background-color: rgb(182, 218, 222);
+  border-radius: 4px;
 }
 
-.research-approach .column {
-  display: flex;
-  flex-direction: column;
-  padding: 0 1rem;
+.research-approach > h2 {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
 }
 
-/*
-The frame has the same proportions as xrd.png.
-Thus, the XRD image fills its column and determines the common height.
-*/
-.method-image-frame {
-  width: 100%;
-  aspect-ratio: 494 / 259;
-  margin-top: 0.75rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.research-cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
 }
 
-.method-image-frame p {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.research-card {
+  position: relative;
+  height: 300px;
+  overflow: hidden;
+  background-color: rgb(182, 218, 222);
 }
 
-.method-image-frame img {
+/* Every image occupies a box of exactly the same height. */
+.research-card img {
+  position: absolute;
+  left: 0;
+  bottom: 0;
   display: block;
-  width: auto;
-  height: 100%;
-  max-width: 100%;
-  object-fit: contain;
+  width: 100%;
+  height: 185px;
   margin: 0;
+  object-fit: contain;
+  object-position: center bottom;
+}
+
+/* This text panel sits on top of—and partially covers—the image. */
+.research-card-text {
+  position: relative;
+  z-index: 2;
+  min-height: 145px;
+  padding: 0.8rem 1rem 1.8rem;
+  background: linear-gradient(
+    to bottom,
+    rgb(182, 218, 222) 75%,
+    rgba(182, 218, 222, 0)
+  );
+}
+
+.research-card-text h3 {
+  margin: 0 0 0.4rem;
+}
+
+.research-card-text p {
+  margin: 0;
+}
+
+/* Stack the cards on narrow screens. */
+@media (max-width: 800px) {
+  .research-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .research-card {
+    height: 330px;
+  }
+
+  .research-card img {
+    height: 210px;
+  }
 }
