@@ -2,6 +2,9 @@
   /* Main brand colour: RGB 1, 66, 106 */
   --brand: #01426A;
 
+  /* Accent color from polytechnique */
+  --highlight: #B6DADE; /* RGB 182, 218, 222 */
+  
   /* Deeper navy variants */
   --ink: #012A44;
   --navy-deep: #001B2C;
@@ -182,26 +185,43 @@ a:hover {
   margin: 2rem auto;
 }
 
-.synthesis-picture {
-  display: block;
-  width: 100%;
-  max-width: 700px;
-  height: auto;
-  margin: 2rem auto;
+/* Equal-height methods figures beneath Research approach */
+
+.methods-strip {
+  margin: 1.5rem 0 2.5rem;
+  padding: 1.5rem;
+  background: var(--highlight);
+  border-radius: 4px;
 }
 
-.computational-picture {
-  display: block;
-  width: 100%;
-  max-width: 700px;
-  height: auto;
-  margin: 2rem auto;
+.methods-strip .columns {
+  margin: 0;
+  align-items: stretch;
 }
 
-.xrd-picture {
-  display: block;
+.methods-strip .column {
+  /* Proportions of xrd.png: 494 × 259 */
+  aspect-ratio: 494 / 259;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem;
+}
+
+.methods-strip .column p {
   width: 100%;
-  max-width: 700px;
-  height: auto;
-  margin: 2rem auto;
+  height: 100%;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.methods-strip img {
+  display: block;
+  width: auto;
+  height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  margin: 0;
 }
