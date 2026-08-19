@@ -15,6 +15,7 @@ website:
       - news.qmd
       - cv.qmd
       - connect.qmd
+    right:
       - text: "Research methods"
         href: images/headerEP.png
   
