@@ -31,7 +31,6 @@ I am a tenure-track Assistant Professor at École Polytechnique, where I study d
     <div class="research-card">
       <img src="images/synthesis.png" alt="Synthesis">
       <div class="research-card-text">
-        <h3>Synthesis</h3>
         <p>Solid-state and solution-based synthesis of new high entropy oxides.</p>
       </div>
     </div>
@@ -39,7 +38,6 @@ I am a tenure-track Assistant Professor at École Polytechnique, where I study d
     <div class="research-card">
       <img src="images/xrd.png" alt="X-ray characterization">
       <div class="research-card-text">
-        <h3>Structural characterization</h3>
         <p>X-ray-based techniques for crystallography and local-structure measurements of disordered materials.</p>
       </div>
     </div>
@@ -47,7 +45,6 @@ I am a tenure-track Assistant Professor at École Polytechnique, where I study d
     <div class="research-card">
       <img src="images/computational.png" alt="Computational modelling">
       <div class="research-card-text">
-        <h3>Modelling</h3>
         <p>DFT, cluster expansions and atomistic simulation of disorder and stability.</p>
       </div>
     </div>
