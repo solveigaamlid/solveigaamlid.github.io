@@ -23,42 +23,34 @@ I am a tenure-track Assistant Professor at École Polytechnique, where I study d
 :::
 
 
-::: {.research-approach}
+<section class="research-approach">
+  <h2>Research approach</h2>
 
-## Research approach
+  <div class="research-cards">
 
-::: {.columns}
+    <div class="research-card">
+      <img src="images/synthesis.png" alt="Synthesis">
+      <div class="research-card-text">
+        <h3>Synthesis</h3>
+        <p>Solid-state and solution-based synthesis of new high entropy oxides.</p>
+      </div>
+    </div>
 
-::: {.column width="33%"}
-### Synthesis
+    <div class="research-card">
+      <img src="images/xrd.png" alt="X-ray characterization">
+      <div class="research-card-text">
+        <h3>Structural characterization</h3>
+        <p>X-ray-based techniques for crystallography and local-structure measurements of disordered materials.</p>
+      </div>
+    </div>
 
-Solid-state and solution-based synthesis of new high entropy oxides.
+    <div class="research-card">
+      <img src="images/computational.png" alt="Computational modelling">
+      <div class="research-card-text">
+        <h3>Modelling</h3>
+        <p>DFT, cluster expansions and atomistic simulation of disorder and stability.</p>
+      </div>
+    </div>
 
-::: {.method-image-frame}
-![Synthesis](images/synthesis.png)
-:::
-:::
-
-::: {.column width="33%"}
-### Structural characterization
-
-X-ray-based techniques for crystallography and local-structure measurements of disordered materials.
-
-::: {.method-image-frame}
-![X-ray characterization](images/xrd.png)
-:::
-:::
-
-::: {.column width="33%"}
-### Modelling
-
-DFT, cluster expansions and atomistic simulation of disorder and stability.
-
-::: {.method-image-frame}
-![Computational modelling](images/computational.png)
-:::
-:::
-
-:::
-
-:::
+  </div>
+</section>
