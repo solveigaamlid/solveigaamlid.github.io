@@ -224,16 +224,23 @@ a:hover {
 }
 
 /* Every image occupies a box of exactly the same height. */
-.research-card img {
+.research-card-image {
   position: absolute;
   left: 0;
   bottom: 0;
+  z-index: 1;
   display: block;
   width: 100%;
   height: 185px;
+  max-width: none;
   margin: 0;
   object-fit: contain;
   object-position: center bottom;
+}
+
+.research-card figure,
+.research-card figure p {
+  margin: 0;
 }
 
 /* This text panel sits on top of—and partially covers—the image. */
