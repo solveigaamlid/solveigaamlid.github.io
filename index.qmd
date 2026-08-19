@@ -22,6 +22,9 @@ I am a tenure-track Assistant Professor at École Polytechnique, where I study d
 :::
 :::
 
+
+::: {.research-approach}
+
 ## Research approach
 
 ::: {.columns}
@@ -30,36 +33,30 @@ I am a tenure-track Assistant Professor at École Polytechnique, where I study d
 ### Synthesis
 
 Solid-state and solution-based synthesis of new high entropy oxides.
+
+::: {.method-image-frame}
+![Synthesis](images/synthesis.png)
+:::
 :::
 
 ::: {.column width="33%"}
 ### Structural characterization
 
 X-ray-based techniques for crystallography and local-structure measurements of disordered materials.
+
+::: {.method-image-frame}
+![X-ray characterization](images/xrd.png)
+:::
 :::
 
 ::: {.column width="33%"}
 ### Modelling
 
 DFT, cluster expansions and atomistic simulation of disorder and stability.
-:::
 
-:::
-
-::: {.methods-strip}
-
-::: {.columns}
-
-::: {.column width="33%"}
-![Synthesis](images/synthesis.png)
-:::
-
-::: {.column width="33%"}
-![X-ray characterization](images/xrd.png)
-:::
-
-::: {.column width="33%"}
+::: {.method-image-frame}
 ![Computational modelling](images/computational.png)
+:::
 :::
 
 :::
