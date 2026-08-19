@@ -185,30 +185,44 @@ a:hover {
   margin: 2rem auto;
 }
 
-/* Equal-height methods figures beneath Research approach */
+/* Research approach area */
 
-.methods-strip {
-  margin: 1.5rem 0 2.5rem;
-  padding: 1.5rem;
+.research-approach {
+  margin: 2rem 0;
+  padding: 1.5rem 2rem 2rem;
   background: var(--highlight);
   border-radius: 4px;
 }
 
-.methods-strip .columns {
+.research-approach h2 {
+  margin-top: 0;
+}
+
+.research-approach .columns {
   margin: 0;
   align-items: stretch;
 }
 
-.methods-strip .column {
-  /* Proportions of xrd.png: 494 × 259 */
+.research-approach .column {
+  display: flex;
+  flex-direction: column;
+  padding: 0 1rem;
+}
+
+/*
+The frame has the same proportions as xrd.png.
+Thus, the XRD image fills its column and determines the common height.
+*/
+.method-image-frame {
+  width: 100%;
   aspect-ratio: 494 / 259;
+  margin-top: 0.75rem;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 0.75rem;
 }
 
-.methods-strip .column p {
+.method-image-frame p {
   width: 100%;
   height: 100%;
   margin: 0;
@@ -217,7 +231,7 @@ a:hover {
   justify-content: center;
 }
 
-.methods-strip img {
+.method-image-frame img {
   display: block;
   width: auto;
   height: 100%;
